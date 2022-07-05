@@ -1,4 +1,4 @@
-Run the "main.py" file and basically login.
+Run the "main.py" file and login.
 
 If you are successfully logged in, you will see the second window and you can get the data you want by pressing the buttons.
 
